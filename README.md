@@ -1,7 +1,7 @@
 # AppChat
 - Vị trí: Trưởng nhóm
 - Front End Web: Nguyễn Minh Chánh
-- Front End APP: Vo Minh Hiếu, Nguyễn Trần Phước Sang
+- Front End APP: Võ Minh Hiếu, Nguyễn Trần Phước Sang
 - Back End:
   + Võ Minh Hiếu
   + Nguyễn Trần Phước Sang
